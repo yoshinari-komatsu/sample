@@ -18,7 +18,7 @@ header {
   transform: translate(-50%, -50%);
 }
 
-.midashi {
+/*.midashi {
   position: absolute;
   font-size: 35px;
   top: 40%;
@@ -39,7 +39,7 @@ header {
   transform: translate(-50%, -50%);
   text-align: center;
   text-shadow: 6px 4px 2px #ca353b, -6px -5px 2px purple;
-}
+}*/
 
 .midashi3 {
   position: absolute;
